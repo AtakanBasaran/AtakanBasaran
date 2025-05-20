@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atakan</h1>
-<h3 align="center">A passionate iOS developer from Turkey</h3>
+<h3 align="center">A passionate engineer from Turkey</h3>
 
-🔭 I’m currently working on [polimats](https://apps.apple.com/tr/app/polimats/id6475117419?l=tr)<br>🌱 I’m currently learning UIKit/SwiftUI<br>👯 I’m looking to collaborate on creative mobile projects<br>💬 Ask me about tech&finance<br>📫 How to reach me basaranatakan10@gmail.com
+💬 Ask me about tech&finance<br>📫 How to reach me basaranatakan10@gmail.com
 
 
 ## 🌐 Socials:
